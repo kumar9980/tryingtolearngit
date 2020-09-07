@@ -1,1 +1,2 @@
 # tryingtolearngit
+edit readme file.
